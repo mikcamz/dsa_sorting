@@ -1,0 +1,54 @@
+[0] Quicksort time (ms): 846.4165919976949
+[0] Heapsort time (ms): 358.9998290008225
+[0] Mergesort time (ms): 1266.6338270028064
+[0] Numpysort time (ms): 62.04734199855011
+
+[1] Quicksort time (ms): 1604.8556829991867
+[1] Heapsort time (ms): 1103.0313259980176
+[1] Mergesort time (ms): 2340.5166330012435
+[1] Numpysort time (ms): 59.795413002575515
+
+[2] Quicksort time (ms): 1783.492489001219
+[2] Heapsort time (ms): 1223.766341998271
+[2] Mergesort time (ms): 2221.2326459994074
+[2] Numpysort time (ms): 61.45450999974855
+
+[3] Quicksort time (ms): 1810.388558998966
+[3] Heapsort time (ms): 1093.56984400074
+[3] Mergesort time (ms): 2260.4565780020494
+[3] Numpysort time (ms): 59.13534399951459
+
+[4] Quicksort time (ms): 1731.091400000878
+[4] Heapsort time (ms): 1153.5063739975158
+[4] Mergesort time (ms): 2217.9779649995908
+[4] Numpysort time (ms): 58.65972099854844
+
+[5] Quicksort time (ms): 1378.935837001336
+[5] Heapsort time (ms): 548.3074969997688
+[5] Mergesort time (ms): 1876.350579001155
+[5] Numpysort time (ms): 68.51166799970088
+
+[6] Quicksort time (ms): 1676.8003319994023
+[6] Heapsort time (ms): 1101.034063998668
+[6] Mergesort time (ms): 2301.6070070007117
+[6] Numpysort time (ms): 68.11464299971703
+
+[7] Quicksort time (ms): 1718.4467799997947
+[7] Heapsort time (ms): 1115.7746229982877
+[7] Mergesort time (ms): 2313.000459998875
+[7] Numpysort time (ms): 62.58897400039132
+
+[8] Quicksort time (ms): 1684.3858920001367
+[8] Heapsort time (ms): 1098.1619079975644
+[8] Mergesort time (ms): 2289.5033809982124
+[8] Numpysort time (ms): 67.35673000002862
+
+[9] Quicksort time (ms): 1668.2334340002853
+[9] Heapsort time (ms): 1085.217060001014
+[9] Mergesort time (ms): 2271.4380139987043
+[9] Numpysort time (ms): 60.949475002416875
+
+[***] Average Quicksort time (ms): 1590.30469979989
+[***] Average Heapsort time (ms): 988.136886699067
+[***] Average Mergesort time (ms): 2135.8717090002756
+[***] Average Numpysort time (ms): 62.86138200011919

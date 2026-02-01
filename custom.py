@@ -7,7 +7,9 @@ def heapsort(arr: List[int]):
 
 def quicksort(arr: List[int]):
     def Lomuto(a, low, high):
-        pivot = a[high] # chọn pivot ngây thơ, lí do có time spike ở data đã sort
+        mid = (low + high) // 2
+        a[mid], a[high] = a[high], a[mid]
+        pivot = a[high] 
         i = low
         for j in range(low, high):
             if a[j] < pivot:
